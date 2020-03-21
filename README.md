@@ -3,7 +3,10 @@ Superspeed.sh with updated server lists.
 
 ## Usage
 ```
+原命令
 bash <(curl -Lso- https://git.io/superspeed)
+,,,,,,,,,,,
+我常用的命令
 wget https://github.com/evolutionboy/superspeed/blob/master/superspeed.sh
 chmod +x superspeed.sh
 ./superspeed.sh
