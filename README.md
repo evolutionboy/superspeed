@@ -4,6 +4,9 @@ Superspeed.sh with updated server lists.
 ## Usage
 ```
 bash <(curl -Lso- https://git.io/superspeed)
+wget https://github.com/evolutionboy/superspeed/blob/master/superspeed.sh
+chmod +x superspeed.sh
+./superspeed.sh
 ```
 
 [查看全部节点列表](https://git.io/superspeedList)
